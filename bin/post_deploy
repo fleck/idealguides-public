@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+curl https://idealguides.com/api/clearAllCache
